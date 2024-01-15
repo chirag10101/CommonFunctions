@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonFunctions", "NumericFunctions\CommonFunctions.csproj", "{77FA498C-639D-4FC1-A75B-B3DD1FF9B10E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77FA498C-639D-4FC1-A75B-B3DD1FF9B10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77FA498C-639D-4FC1-A75B-B3DD1FF9B10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77FA498C-639D-4FC1-A75B-B3DD1FF9B10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77FA498C-639D-4FC1-A75B-B3DD1FF9B10E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29B3CBBA-9475-4115-9956-3AF590CB12C7}
+	EndGlobalSection
+EndGlobal
